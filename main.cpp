@@ -20,5 +20,4 @@ void main()
 	cout << "Tong hai phan so la: ";
 	tong.XuatPhanSo();
 
-	system("pause");
 }
